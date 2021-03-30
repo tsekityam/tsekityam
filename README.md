@@ -4,5 +4,5 @@
 ---
 
 [![Tse Kit Yam's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsekityam)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsekityam&layout=compact&exclude_forks=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsekityam&layout=compact&exclude_forks=true&exclude_repo=piceditor)](https://github.com/anuraghazra/github-readme-stats)
 
